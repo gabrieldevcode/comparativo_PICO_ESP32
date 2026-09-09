@@ -77,6 +77,7 @@ A diferença central é **conectividade nativa vs. controle de baixo nível prec
 ## Resumo em uma frase
 
 **ESP32** = melhor quando o projeto precisa de conexão sem fio nativa (Wi-Fi/Bluetooth) e mais poder de processamento.
+
 **Pico** = melhor quando o projeto precisa de controle de hardware muito preciso (PIO), baixo custo, e não depende de conectividade sem fio.
 
 Na prática, muitos makers usam os dois: ESP32 para o "cérebro conectado" do projeto e Pico para tarefas de controle em tempo real que exigem timing preciso.
